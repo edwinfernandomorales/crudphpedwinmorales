@@ -7,7 +7,7 @@
     <title>Denuncias de vehiculos en mal estado</title>
     <style>
         html {
-            height: 100%;
+            height: 90%;
         }
         
         body {
