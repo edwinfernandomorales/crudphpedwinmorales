@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Denuncias de vehiculos en mal estado</title>
+    <title>DENUNCIAS TRANCITO DTM</title>
     <style>
         html {
             height: 100%;
@@ -32,7 +32,7 @@
 
 <body>
     <div class="header">
-        <h1>Denuncias Web App</h1>
+        <h1>APLICACION DE DENUNCIAS WEB</h1>
         <p>Aplicación web para el registro de denuncias del transporte publico en Colombia</p>
         <p>Permite el control y la veduría pública</p>
     </div>
