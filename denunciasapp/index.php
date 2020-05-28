@@ -11,7 +11,7 @@
         }
         
         body {
-            height: 100%;
+            height: 90%;
         }
         
         .seccion {
